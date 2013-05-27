@@ -3,6 +3,10 @@ asa-jobs
 
 Second project assignment for the Analysis and Synthesis of Algorithms course @ IST 2013
 
+Each student is interpreted as a vertex in a subset S of V.
+Each job is also interpreted as a vertex, in V-S.
+Maximum matching computed using Hopcroft-Karp's algorithm.
+
 - Problem
 -
 O mercado de trabalho é complexo. Os alunos tiram cursos para poderem concorrer a empregos. Por outro lado, as empresas analisam os candidatos para determinar se estão aptos para realizar determinadas tarefas. Quando os dois interesses estão alinhados, os alunos conseguem emprego.
